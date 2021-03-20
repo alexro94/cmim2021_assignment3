@@ -1,6 +1,7 @@
 %% Exercise 4.14 - Main Program
 % Alex Rosu
 % 20.03.2021
+
 clc; clear;
 
 omega = 2;                          % Natural frequency of the system
